@@ -34,7 +34,7 @@ then take, e.g.,
 and work with X2. If this gives unsatisfactory results, constant-bandwidth kernel methods are probably not a great idea in the first place, but you might persist and decompose the sample data to allow the bandwidth to vary in a piecewise constant manner. Indeed, applying TME recursively to mixture components is a good idea. A fast Gauss transform would probably yield significant improvements in runtime. This is left as an exercise.
 
 **CITE**
-If you use TME in your work, please cite https://arxiv.org/abs/1712.04487. Even better, check Google Scholar to see if it's been published in a formal venue yet. I would also personally like to hear about your application, evaluation, etc.    
+If you use TME in your work, please cite the ICML 2018 proceedings: besides PMLR, the paper is at https://arxiv.org/abs/1712.04487. I would also personally like to hear about your application, evaluation, etc.    
 
 **CONTACT**
 
