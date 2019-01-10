@@ -1,7 +1,7 @@
 **README**
 
 **OVERVIEW**
-This is research code implementing topological mixture estimation (https://arxiv.org/abs/1712.04487) in MATLAB. The key file is tme1d.m, but this calls other files, including for the simpler technique of topological density estimation.
+This is research code implementing topological mixture estimation (	http://proceedings.mlr.press/v80/huntsman18a.html; see also video at https://vimeo.com/287766370 and slides at https://ww2.amstat.org/meetings/sdss/2018/onlineprogram/AbstractDetails.cfm?AbstractID=304435) in MATLAB. The key file is tme1d.m, but this calls other files, including for the simpler technique of topological density estimation.
 
 **CONTENTS**
 
